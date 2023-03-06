@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning - Initiative](README.md)
+* [Creating - Initiative](README.md)
