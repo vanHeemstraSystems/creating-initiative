@@ -1,4 +1,4 @@
-[![.github/workflows/publish.yml](https://github.com/vanHeemstraSystems/learning-initiative/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-initiative/actions/workflows/publish.yml)
+[![.github/workflows/publish.yml](https://github.com/vanHeemstraSystems/creating-initiative/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/creating-initiative/actions/workflows/publish.yml)
 
 creating-initiative
 # Creating - Initiative
